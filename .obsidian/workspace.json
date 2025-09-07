@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "b30ae42274befb9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e502d2587e556d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3e46a84eced99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Major Players and Their Contributions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4148ed0df2f6c5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ad76dae9bfcb38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f615b621f1d777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3cca33ba92da3b36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc2cc9c7829889ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f9578798f427906",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fcdacd97cf06bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c46041dfa0c087",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4.1 Major Players and Their Contributions"
+            }
+          },
+          {
+            "id": "416a6dc4c9e64070",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4.1 Major Players and Their Contributions"
+            }
+          },
+          {
+            "id": "01567d3ad751e285",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "732593081aade72c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.1 Major Players and Their Contributions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf3e46a84eced99f",
+  "lastOpenFiles": [
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/3. The Renaissance and Modern Era - Present/3.1 The Statistical Revolution (2000-2010).md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md"
+  ]
+}
