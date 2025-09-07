@@ -1,0 +1,71 @@
+# Site settings
+title: "The Ultimate Encyclopedia of Modern AI"
+description: "From Foundations to AGI - A comprehensive guide to Artificial Intelligence"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation structure
+navigation:
+  - title: "Personal Anecdote"
+    url: "/0-personal-anecdote"
+  - title: "Personal History & Intent"
+    url: "/1-personal-history-intent"
+  - title: "Preface"
+    url: "/2-preface"
+  - title: "Index"
+    url: "/3-index"
+  - title: "Module 1: AI Foundations"
+    url: "/module-1-ai-foundations/"
+
+# Collections for organized content
+collections:
+  modules:
+    output: true
+    permalink: /:collection/:name/
+  chapters:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "modules"
+    values:
+      layout: "module"
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

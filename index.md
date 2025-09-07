@@ -1,16 +1,26 @@
 ---
+layout: default
+title: "The Ultimate Encyclopedia of Modern AI - From Foundations to AGI"
+---
+
+# The Ultimate Encyclopedia of Modern AI
+## From Foundations to AGI
+
+Welcome to the comprehensive guide to Artificial Intelligence, covering everything from fundamental concepts to cutting-edge developments.
 
 ---
 
-The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
-
----
+## Getting Started
 
 - [Personal Anecdote](0-personal-anecdote.html)
 - [Personal History & Intent](1-personal-history-intent.html)
 - [Preface](2-preface.html)
 
-**Module 1: AI Foundations & Overview (Chapters 1-12)**
+---
+
+## Table of Contents
+
+### **Module 1: AI Foundations & Overview (Chapters 1-12)**
 1. [Introduction to Artificial Intelligence: Past, Present, and Future](module-1-ai-foundations/chapter-1-introduction-to-artificial-intelligence/)
 2. The Evolution of Machine Learning: From Perceptrons to Foundation Models
 3. Types of Machine Learning: Supervised, Unsupervised, Semi-Supervised, and SelfSupervised
@@ -23,16 +33,19 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 10. Your First End-to-End ML Project: From Data to Deployment
 11. Understanding AI Model Types: Discriminative vs. Generative Models
 12. The AI Ecosystem: Research Labs, Open Source, and Industry
+
 ---
-**Module 2: Mathematical Foundations (Chapters 13-32)**
-- Linear Algebra & Matrix Theory
+
+### **Module 2: Mathematical Foundations (Chapters 13-32)**
+#### Linear Algebra & Matrix Theory
 13. Essential Linear Algebra: Vectors, Matrices, and Operations
 14. Advanced Matrix Operations: Decompositions and Factorizations
 15. Eigenvalues, Eigenvectors, and Spectral Theory
 16. Singular Value Decomposition (SVD) and Applications
 17. Tensor Operations and Multi-dimensional Arrays
 18. Matrix Calculus and Derivatives of Matrix Functions
-* Calculus & Optimization
+
+#### Calculus & Optimization
 19. Differential Calculus: Derivatives and Gradients
 20. Multivariable Calculus and Partial Derivatives
 21. The Chain Rule and Backpropagation Mathematics
@@ -40,7 +53,8 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 23. Non-Convex Optimization in Deep Learning
 24. Stochastic Optimization and Gradient Methods
 25. Constrained Optimization and Lagrangian Methods
-* Probability & Statistics
+
+#### Probability & Statistics
 26. Probability Theory: Foundations and Random Variables
 27. Probability Distributions: Continuous and Discrete
 28. Bayes' Theorem and Bayesian Inference
@@ -48,21 +62,25 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 30. Information Theory: Entropy, KL Divergence, and Mutual Information
 31. Markov Chains and Stochastic Processes
 32. Advanced Statistics for Machine Learning
+
 ---
-**Module 3: Programming Foundations (Chapters 33-50)**
-* Core Programming Skills
+
+### **Module 3: Programming Foundations (Chapters 33-50)**
+#### Core Programming Skills
 33. Python Mastery for AI: Advanced Patterns and Best Practices
 34. Data Structures and Algorithms for ML Applications
 35. Object-Oriented Programming for ML Systems
 36. Functional Programming Concepts in AI Development
-* Essential Libraries
+
+#### Essential Libraries
 37. NumPy: Vectorized Computing and Array Operations
 38. Pandas: Data Manipulation and Analysis
 39. Matplotlib and Seaborn: Data Visualization
 40. Plotly and Interactive Visualizations
 41. SciPy: Scientific Computing Tools
 42. Scikit-learn: Classical Machine Learning Library
-* Development Environment
+
+#### Development Environment
 43. Jupyter Notebooks and JupyterLab for AI Research
 44. Version Control with Git for ML Projects
 45. Package Management: Conda, pip, and Poetry
@@ -71,16 +89,19 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 48. Code Quality: Testing, Linting, and Documentation
 49. Profiling and Performance Optimization
 50. Debugging ML Code and Common Pitfalls
+
 ---
-**Module 4: Data Engineering & Management (Chapters 51-70)**
-* Data Storage & Formats
+
+### **Module 4: Data Engineering & Management (Chapters 51-70)**
+#### Data Storage & Formats
 51. Relational Databases and SQL for Data Science
 52. NoSQL Databases: MongoDB, Cassandra, and Graph Databases
 53. Data Formats: CSV, JSON, Parquet, Avro, and ORC
 54. Working with Images, Audio, and Video Data
 55. Time Series Data and Temporal Databases
 56. Geospatial Data and GIS for AI Applications
-* Data Processing & Pipelines
+
+#### Data Processing & Pipelines
 57. Data Cleaning and Preprocessing Techniques
 58. Feature Engineering and Selection Methods
 59. Data Augmentation Strategies Across Modalities
@@ -88,7 +109,8 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 61. Big Data Processing with Apache Spark
 62. Stream Processing for Real-Time AI
 63. ETL/ELT Pipelines for Machine Learning
-* Vector Databases & Modern Storage
+
+#### Vector Databases & Modern Storage
 64. Introduction to Vector Databases and Embeddings
 65. FAISS: Facebook AI Similarity Search
 66. Pinecone: Managed Vector Database Service
@@ -96,9 +118,11 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 68. Milvus and Qdrant: Scalable Vector Storage
 69. ChromaDB and pgvector: Embedding Storage Solutions
 70. Choosing the Right Vector Database for Your Use Case
+
 ---
-**Module 5: Classical Machine Learning (Chapters 71-95)**
-* Supervised Learning
+
+### **Module 5: Classical Machine Learning (Chapters 71-95)**
+#### Supervised Learning
 71. Linear Regression: Theory and Implementation
 72. Logistic Regression and Generalized Linear Models
 73. Regularization: Ridge, Lasso, and Elastic Net
@@ -107,7 +131,8 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 76. Random Forests and Extra Trees
 77. Gradient Boosting: XGBoost, LightGBM, and CatBoost
 78. Ensemble Methods and Model Combination
-* Unsupervised Learning
+
+#### Unsupervised Learning
 79. K-Means and Other Centroid-Based Clustering
 80. Hierarchical Clustering and Density-Based Methods
 81. Gaussian Mixture Models and EM Algorithm
@@ -115,7 +140,8 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 83. Independent Component Analysis (ICA)
 84. t-SNE and UMAP for Dimensionality Reduction
 85. Association Rules and Market Basket Analysis
-* Model Evaluation & Selection
+
+#### Model Evaluation & Selection
 86. Cross-Validation and Model Selection Strategies
 87. Evaluation Metrics: Classification and Regression
 88. ROC Curves, Precision-Recall, and Calibration
@@ -126,36 +152,42 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 93. Fairness Metrics and Bias Detection in Classical ML
 94. AutoML and Automated Feature Engineering
 95. Practical ML Project: End-to-End Classical Pipeline
+
 ---
-**Module 6: Deep Learning Foundations (Chapters 96-125)**
-* Neural Network Basics
+
+### **Module 6: Deep Learning Foundations (Chapters 96-125)**
+#### Neural Network Basics
 96. From Perceptrons to Multi-Layer Networks
 97. Backpropagation Algorithm: Theory and Implementation
 98. Activation Functions: ReLU, GELU, Swish, and Beyond
 99. Weight Initialization Strategies
 100. Loss Functions for Different Tasks
-* Training Deep Networks
+
+#### Training Deep Networks
 101. Gradient Descent and Its Variants
 102. Advanced Optimizers: Adam, AdamW, Lion, and Shampoo
 103. Learning Rate Scheduling and Warm-up Strategies
 104. Batch Normalization and Layer Normalization
 105. Dropout and Regularization Techniques
 106. Early Stopping and Model Checkpointing
-* Advanced Training Techniques
+
+#### Advanced Training Techniques
 107. Mixed Precision Training and Automatic Loss Scaling
 108. Gradient Accumulation and Memory Optimization
 109. Data Parallel and Model Parallel Training
 110. Distributed Training Across Multiple GPUs/Nodes
 111. Debugging Deep Learning Models
 112. Visualizing Training Dynamics and Loss Landscapes
-* Modern Architectures
+
+#### Modern Architectures
 113. Convolutional Neural Networks (CNNs)
 114. Recurrent Neural Networks: RNNs, LSTMs, and GRUs
 115. Residual Networks and Skip Connections
 116. DenseNet and Highway Networks
 117. Attention Mechanisms and Self-Attention
 118. Transformer Architecture: The Foundation of Modern AI
-* Deep Learning Frameworks
+
+#### Deep Learning Frameworks
 119. PyTorch: Dynamic Neural Networks
 120. TensorFlow and Keras: Production-Ready Deep Learning
 121. JAX: Composable Transformations for ML Research
@@ -163,4 +195,7 @@ The Ultimate Encyclopedia of Modern AI - From Foundations to AGI
 123. Model Serialization and Deployment Formats
 124. Converting Between Frameworks: ONNX and TensorRT
 125. Practical Deep Learning: Building Your First Neural Network
+
 ---
+
+*This encyclopedia is continuously updated with the latest developments in AI and machine learning.*
