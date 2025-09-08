@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Major Players and Their Contributions"
+              "title": "6.2 What You'll Learn in This Curriculum"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.1 Major Players and Their Contributions"
+              "title": "Backlinks for 6.2 What You'll Learn in This Curriculum"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4.1 Major Players and Their Contributions"
+              "title": "Outgoing links from 6.2 What You'll Learn in This Curriculum"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.1 Major Players and Their Contributions"
+              "title": "Outline of 6.2 What You'll Learn in This Curriculum"
             }
           }
         ]
@@ -171,7 +171,17 @@
   },
   "active": "bf3e46a84eced99f",
   "lastOpenFiles": [
-    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/3. The Renaissance and Modern Era - Present/3.1 The Statistical Revolution (2000-2010).md",
-    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md"
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.1 Why Learn AI Now?.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.4 Existential Considerations.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.3 Societal Implications and Challenges.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.2 The Path to AGI.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.1 Technical Frontiers and Challenges.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.3 AI in Everyday Life (2025).md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.2 Current AI Capabilities and Applications.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/4. The AI Ecosystem Today/4.1 Major Players and Their Contributions.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/3. The Renaissance and Modern Era - Present/3.1 The Statistical Revolution (2000-2010).md"
   ]
 }
