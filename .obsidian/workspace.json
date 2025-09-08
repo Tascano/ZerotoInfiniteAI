@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.3 Setting Expectations and Mindset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 What You'll Learn in This Curriculum"
+              "title": "6.3 Setting Expectations and Mindset"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.3 Setting Expectations and Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6.2 What You'll Learn in This Curriculum"
+              "title": "Backlinks for 6.3 Setting Expectations and Mindset"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.3 Setting Expectations and Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6.2 What You'll Learn in This Curriculum"
+              "title": "Outgoing links from 6.3 Setting Expectations and Mindset"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+                "file": "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.3 Setting Expectations and Mindset.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.2 What You'll Learn in This Curriculum"
+              "title": "Outline of 6.3 Setting Expectations and Mindset"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "bf3e46a84eced99f",
   "lastOpenFiles": [
-    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.1 Why Learn AI Now?.md",
+    "3. Index.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.3 Setting Expectations and Mindset.md",
     "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.2 What You'll Learn in This Curriculum.md",
+    "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins/6.1 Why Learn AI Now?.md",
     "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.4 Existential Considerations.md",
     "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/6. Your Journey Begins",
     "Module 1 - AI Foundations/Chapter 1 - Introduction to Artificial Intelligence; Past, Present, and Future/5. Looking Forward - Future/5.3 Societal Implications and Challenges.md",
